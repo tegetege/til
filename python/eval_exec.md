@@ -42,3 +42,4 @@ SyntaxError: invalid syntax
 ## リンク
 [eval](https://docs.python.org/ja/3/library/functions.html#eval)  
 [exec](https://docs.python.org/ja/3/library/functions.html#exec)
+ 
