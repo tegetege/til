@@ -3,7 +3,7 @@
 timedeltaオブジェクトを利用すれば2つの日付や時間間の差、2つの時間を計算した結果などが出せる  
 
 ```
-form datetime import timedelta
+from datetime import timedelta
 
 >>> week = timedelta(days=7)
 >>> today = datetime.date.today() # 2020/02/18
