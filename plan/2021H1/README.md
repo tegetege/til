@@ -1,8 +1,8 @@
 # 2021H1
 期間: 2021年4月 ~ 2021年9月末
 
-## 目標
-?????
+## 中長期的な目標
+Will be an engnineer who joins any service which influence the world.
 
 ## 前期から続きでやっていること
 <!-- テーブルを作って、ステータス管理、期限表記、その他などを書いておく-->
