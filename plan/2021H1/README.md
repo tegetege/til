@@ -11,7 +11,7 @@ Will be an engnineer who joins any service which influence the world.
 | 個人PJ(1) ||||||
 | 個人PJ(2) ||||||
 | 個人PJ(3) ||||||
-| システムデザインの勉強会(1回/週) | 様々なシステムのデザインを理解する | [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)を輪読形式で読む | 9割完了(5/7) | 無し ||
+| システムデザインの勉強会(1回/週) | 様々なシステムのデザインを理解する | [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)を輪読形式で読む | 完了 | 無し ||
 | アルゴリズムの勉強会(1回/週) | アルゴリズムのインプットとアウトプットを行う | 未定(Atcoderのレートとかで決める?) | 勉強会に参加中 | 無し ||
 
 ## 今期から初めたこと
@@ -19,8 +19,8 @@ Will be an engnineer who joins any service which influence the world.
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 英会話(1h*2回/週) | 英語力の向上 | 継続すること | 継続中 | 特に無し ||
 | デザインパターン(隔週) | デザインパターンを理解しオブジェクト指向を理解する | [Java言語で学ぶデザインパターン入門](https://www.hyuki.com/dp/)を輪読形式で進める | 実行中 | 無し ||
-| TensorFlow勉強(~ 5月末) | TensorFlowを利用できるようになる | Courseraでレッスンを受講する | 受講中 | 5月末 |[ディープラーニング専門講座](https://www.coursera.org/specializations/deep-learning#courses)のコース1と2を受講 |
-| MLops勉強会(5月末 ~) | MLopsについてのインプットを行う | 勉強会を遂行すること | 未着手 | 無し ||
+| TensorFlow勉強(~ 5月末) | TensorFlowを利用できるようになる | Courseraでレッスンを受講する | 受講済 | 5月末 |[ディープラーニング専門講座](https://www.coursera.org/specializations/deep-learning#courses)のコース1と2を受講<br>受講したけど、TensorFlowはまだ使えない |
+| MLops勉強会(5月末 ~) | MLopsについてのインプットを行う | 勉強会を遂行すること | 実行中 | 無し ||
 
 ## 今期やりたいこと
 | 内容 | 目的 | ゴール | ステータス | 期限 | その他 |
