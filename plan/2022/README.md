@@ -96,7 +96,7 @@ webエンジニアとして必要な知識をインプットし続けるため
 `健康年齢 = (実年齢 - 1)`を最低半年保つ
 
 #### 何をするのか
-- 週3日以上の筋トレ(NHK 筋肉体操)継続
+- 週3日以上の筋トレ(NHK 筋肉体操)継続 ([#tegetege_workout](https://twitter.com/search?q=%23tegetege_workout&src=hashtag_click))
 - ランニング
 
 
