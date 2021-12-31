@@ -3,7 +3,7 @@
 
 ## 2022年の目標
 
-### ■ 英語力向上
+### ■ 英語
 #### 目的
 英語力を向上し、
 - 情報収集の幅を広げること
@@ -21,19 +21,24 @@
 - 好きな洋楽を練習する
 
 
-### ■ アルゴリズムの基礎知識の取得
+### ■ 基礎知識
 #### 目的
-webエンジニアに必要な基礎知識としてアルゴリズムの知識をインプットし続けること
+webエンジニアに必要な基礎知識をインプットし続けること
 
 #### ゴール
-[AlgoExpert Cording Interview Questions](https://www.algoexpert.io/questions)の160問制覇
+勉強会に参加し続けること
 
 #### 何をするのか
 - 週に2問の問題を解くことを最低ラインとして継続して取り組む
-- アルゴリズム勉強会への参加
+- アルゴリズム勉強会への参加  
+-> [AlgoExpert Cording Interview Questions](https://www.algoexpert.io/questions)の160問制覇  
+-> [プログラミングコンテストチャレンジブック](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%96%E3%83%83%E3%82%AF-%E7%AC%AC2%E7%89%88-%EF%BD%9E%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E6%B4%BB%E7%94%A8%E5%8A%9B%E3%81%A8%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%92%E9%8D%9B%E3%81%88%E3%82%8B%EF%BD%9E-%E7%A7%8B%E8%91%89%E6%8B%93%E5%93%89/dp/4839941068)
+- デザインパターン勉強会への参加  
+-> [Cracking the Coding Interview, 6th Edition](https://www.amazon.co.jp/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)を読み進める
+- MLシステムデザイン勉強会への参加  
+-> [Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design)
 
-
-### ■ 機械学習の基礎知識の取得
+### ■ 機械学習
 #### 目的
 トレンドを追う目的で、機械学習の基礎知識をインプットし続けること
 
@@ -46,9 +51,9 @@ webエンジニアに必要な基礎知識としてアルゴリズムの知識�
 - [Tensorflow デベロッパー認定資格](https://www.tensorflow.org/certificate?hl=ja)の準備を進める
 
 
-### ■ 利用できる技術スタックの幅を広げる
+### ■ 技術スタック
 #### 目的
-webエンジニアとして利用できる技術スタックの幅を広げること
+利用できる技術スタックの幅を広げること
 
 #### ゴール
 未定
@@ -58,7 +63,7 @@ webエンジニアとして利用できる技術スタックの幅を広げる�
 (k8s, Apache Spark, Datalake...etc)
 
 
-### ■ 個人PJ([Dr.Bunny](https://www.drbunny.org/homepage))の推進
+### ■ 個人PJ([Dr.Bunny](https://www.drbunny.org/homepage))
 #### 目的
 webエンジニアとして必要な知識をインプットし続けるため
 
